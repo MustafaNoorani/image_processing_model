@@ -34,12 +34,12 @@ pip install opencv-python numpy tensorflow
 git clone https://github.com/yourusername/image-recognition.git
 cd image-recognition
 
-**## Installation**
+## Installation
 
 git clone https://github.com/yourusername/image-recognition.git
 cd image-recognition
 
-**## Usage**
+## Usage
 python recognize.py --image_path images/sample.jpg
 
 ## License
